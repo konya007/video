@@ -1,0 +1,508 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Kiểm thử phần mềm",
+      "videos": [
+        {
+          "id": 1,
+          "title": "Tổng quang kiểm thử phần mềm p1",
+          "description": "Giới thiệu tổng quan về kiểm thử phần mềm - Phần 1",
+          "url": "https://drive.google.com/file/d/17qy_23pIg5pX_Afd4U_DoeXox0PUpdsf",
+          "embedUrl": "https://drive.google.com/file/d/17qy_23pIg5pX_Afd4U_DoeXox0PUpdsf/preview",
+          "youtubeId": "zk3LQnkcTJY"
+        },
+        {
+          "id": 2,
+          "title": "Tổng quang kiểm thử phần mềm p2",
+          "description": "Giới thiệu tổng quan về kiểm thử phần mềm - Phần 2",
+          "url": "https://drive.google.com/file/d/1EALYc0XMHigqu1JRiqIdvIX76A2PZ7QF",
+          "embedUrl": "https://drive.google.com/file/d/1EALYc0XMHigqu1JRiqIdvIX76A2PZ7QF/preview",
+          "youtubeId": "zk3LQnkcTJY"
+        },
+        {
+          "id": 3,
+          "title": "Kiểm thử tự động - Phần 1",
+          "description": "Giới thiệu về kiểm thử tự động",
+          "url": "https://drive.google.com/file/d/1Kb-D3m_Kes8I573kEo31t4XyPgE_gSLO",
+          "embedUrl": "https://drive.google.com/file/d/1Kb-D3m_Kes8I573kEo31t4XyPgE_gSLO/preview",
+          "youtubeId": "PoVtT8sHeA4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lập trình Django",
+      "videos": [
+        {
+          "id": 1,
+          "title": "01 - Tạo Project Django",
+          "description": "Hướng dẫn tạo project Django",
+          "url": "https://drive.google.com/file/d/1c40cG87uJ-M5nW-FYe48XLLaJC33mRcz",
+          "embedUrl": "https://drive.google.com/file/d/1c40cG87uJ-M5nW-FYe48XLLaJC33mRcz/preview",
+          "youtubeId": "rU9pY22viyM"
+        },
+        {
+          "id": 2,
+          "title": "02 - Tạo các lớp models trong Django",
+          "description": "Hướng dẫn tạo các lớp models trong Django",
+          "url": "https://drive.google.com/file/d/192adBsvbGR8gEP1bAFhW_ES8us7sPFFc",
+          "embedUrl": "https://drive.google.com/file/d/192adBsvbGR8gEP1bAFhW_ES8us7sPFFc/preview",
+          "youtubeId": "yT7y4PqIjuk"
+        },
+        {
+          "id": 3,
+          "title": "03 - Xây dựng phân hệ Admin trong Django",
+          "description": "Hướng dẫn xây dựng phân hệ Admin trong Django",
+          "url": "https://drive.google.com/file/d/1mppUkPoKzh7FmF6d00Xn2vaQRqGsfBff",
+          "embedUrl": "https://drive.google.com/file/d/1mppUkPoKzh7FmF6d00Xn2vaQRqGsfBff/preview",
+          "youtubeId": "rU9pY22viyM"
+        },
+        {
+          "id": 4,
+          "title": "04 - Khai báo một số meta options trong các lớp models của Django",
+          "description": "Hướng dẫn khai báo một số meta options trong các lớp models của Django",
+          "url": "https://drive.google.com/file/d/1RwPhARTxb6C2d9l7kGJF35kjg7Hx6mEV",
+          "embedUrl": "https://drive.google.com/file/d/1RwPhARTxb6C2d9l7kGJF35kjg7Hx6mEV/preview",
+          "youtubeId": "M4a7pTAL9Yg"
+        },
+        {
+          "id": 5,
+          "title": "05 - Thiết lập mối quan hệ giữa các lớp models trong Django - Phần 01",
+          "description": "Hướng dẫn thiết lập mối quan hệ giữa các lớp models trong Django - Phần 01",
+          "url": "https://drive.google.com/file/d/1hz2kjSN5BPssjVGLtPJcF6FNbZXDq2sp",
+          "embedUrl": "https://drive.google.com/file/d/1hz2kjSN5BPssjVGLtPJcF6FNbZXDq2sp/preview",
+          "youtubeId": "PD12gljTVgM"
+        },
+        {
+          "id": 6,
+          "title": "06 - Thiết lập mối quan hệ giữa các lớp models trong Django - Phần 02",
+          "description": "Hướng dẫn thiết lập mối quan hệ giữa các lớp models trong Django - Phần 02",
+          "url": "https://drive.google.com/file/d/1uKlCnytstent46vXe999zLsYfawZZH9T",
+          "embedUrl": "https://drive.google.com/file/d/1uKlCnytstent46vXe999zLsYfawZZH9T/preview",
+          "youtubeId": "3SqK4_i-ctk"
+        },
+        {
+          "id": 7,
+          "title": "07 - Truy vấn dữ liệu cơ bản trong Django",
+          "description": "Hướng dẫn truy vấn dữ liệu cơ bản trong Django",
+          "url": "https://drive.google.com/file/d/16gOVX9ZYMME8QziLW_40nu6a6wuM3nHC",
+          "embedUrl": "https://drive.google.com/file/d/16gOVX9ZYMME8QziLW_40nu6a6wuM3nHC/preview",
+          "youtubeId": "t1c0hOmNTKk"
+        },
+        {
+          "id": 8,
+          "title": "08 - Truy vấn dữ liệu nâng cao trong Django",
+          "description": "Hướng dẫn truy vấn dữ liệu nâng cao trong Django",
+          "url": "https://drive.google.com/file/d/1AnevjEL9f3FIryOfE9vWcM0bzVklV9_B",
+          "embedUrl": "https://drive.google.com/file/d/1AnevjEL9f3FIryOfE9vWcM0bzVklV9_B/preview",
+          "youtubeId": "b3mrh9liGq4"
+        },
+        {
+          "id": 9,
+          "title": "09 - Tuỳ chỉnh phân hệ Admin trong Django",
+          "description": "Hướng dẫn tuỳ chỉnh phân hệ Admin trong Django",
+          "url": "https://drive.google.com/file/d/1NexkimMKEUp8ZspOBmZV20RK20C54lwU",
+          "embedUrl": "https://drive.google.com/file/d/1NexkimMKEUp8ZspOBmZV20RK20C54lwU/preview",
+          "youtubeId": "V6-p9SGqzxk"
+        },
+        {
+          "id": 10,
+          "title": "10 - Viết các APIs đầu tiên với Django Rest Framework",
+          "description": "Hướng dẫn viết các APIs đầu tiên với Django Rest Framework",
+          "url": "https://drive.google.com/file/d/1rpu5KsCRjGbW06fb-Hh00J9IZZzodYpP",
+          "embedUrl": "https://drive.google.com/file/d/1rpu5KsCRjGbW06fb-Hh00J9IZZzodYpP/preview",
+          "youtubeId": "ruXPvzTO6fA"
+        },
+        {
+          "id": 11,
+          "title": "11 - Sử dụng các View trong DRF - Phần 01",
+          "description": "Hướng dẫn sử dụng các View trong DRF - Phần 01",
+          "url": "https://drive.google.com/file/d/1y4AzVdODhmzxKPbOr8b-4Mqk5OtXfeJt",
+          "embedUrl": "https://drive.google.com/file/d/1y4AzVdODhmzxKPbOr8b-4Mqk5OtXfeJt/preview",
+          "youtubeId": "ix-SUf5U7R0"
+        },
+        {
+          "id": 12,
+          "title": "12 - Phân trang các Rest API",
+          "description": "Hướng dẫn phân trang các Rest API",
+          "url": "https://drive.google.com/file/d/1dq7JVm5Vjn6KZIBKu1DTmN0MlwPWnG1z",
+          "embedUrl": "https://drive.google.com/file/d/1dq7JVm5Vjn6KZIBKu1DTmN0MlwPWnG1z/preview",
+          "youtubeId": "SijQk8DlOrE"
+        },
+        {
+          "id": 13,
+          "title": "13 - Tuỳ chỉnh truy vấn trong View",
+          "description": "Hướng dẫn tuỳ chỉnh truy vấn trong View",
+          "url": "https://drive.google.com/file/d/1Z3mUaTAbprTHXwLc_BfGzCPXugYgIkIs",
+          "embedUrl": "https://drive.google.com/file/d/1Z3mUaTAbprTHXwLc_BfGzCPXugYgIkIs/preview",
+          "youtubeId": "kIlOV4zcWt8"
+        },
+        {
+          "id": 14,
+          "title": "14 - Sử dụng decorator @action để thêm API vào view",
+          "description": "Hướng dẫn sử dụng decorator @action để thêm API vào view",
+          "url": "https://drive.google.com/file/d/1q3M6Xf3JuTL6-mWQ-8RjK56LBNNNZJHG",
+          "embedUrl": "https://drive.google.com/file/d/1q3M6Xf3JuTL6-mWQ-8RjK56LBNNNZJHG/preview",
+          "youtubeId": "-SYc6bLo8Zs"
+        },
+        {
+          "id": 15,
+          "title": "15 - Tuỳ chỉnh phân quyền trong View",
+          "description": "Hướng dẫn tuỳ chỉnh phân quyền trong View",
+          "url": "https://drive.google.com/file/d/1Lo22mXmyMfm_EDpn3KllO4LxAp9Jw2a9",
+          "embedUrl": "https://drive.google.com/file/d/1Lo22mXmyMfm_EDpn3KllO4LxAp9Jw2a9/preview",
+          "youtubeId": "hm1ocYUrNRQ"
+        },
+        {
+          "id": 16,
+          "title": "16 - Tích hợp OAuth2 vào DRF",
+          "description": "Hướng dẫn tích hợp OAuth2 vào DRF",
+          "url": "https://drive.google.com/file/d/1s5c0Xk7mwEU6l3evrvduAXo5GsdKHEMc",
+          "embedUrl": "https://drive.google.com/file/d/1s5c0Xk7mwEU6l3evrvduAXo5GsdKHEMc/preview",
+          "youtubeId": "j6vTDB1bFQc"
+        },
+        {
+          "id": 17,
+          "title": "17 - Viết API đăng ký người dùng tích hợp upload avatar lên cloudinary",
+          "description": "Hướng dẫn viết API đăng ký người dùng tích hợp upload avatar lên cloudinary",
+          "url": "https://drive.google.com/file/d/1ufytftCpet4TYUisWSZYlkSe6raVv3K1",
+          "embedUrl": "https://drive.google.com/file/d/1ufytftCpet4TYUisWSZYlkSe6raVv3K1/preview",
+          "youtubeId": "cnIOZ_dl0-s"
+        },
+        {
+          "id": 18,
+          "title": "18 - Tích hợp CORS vào Rest API",
+          "description": "Hướng dẫn tích hợp CORS vào Rest API",
+          "url": "https://drive.google.com/file/d/1wKjuV6BJ5wlV6aab3O3E_F4_lYrdKZ06",
+          "embedUrl": "https://drive.google.com/file/d/1wKjuV6BJ5wlV6aab3O3E_F4_lYrdKZ06/preview",
+          "youtubeId": "2yU1MDnhEwE"
+        },
+        {
+          "id": 19,
+          "title": "19 - Tích hợp Swagger tạo tài liệu cho Rest APIs",
+          "description": "Hướng dẫn tích hợp Swagger tạo tài liệu cho Rest APIs",
+          "url": "https://drive.google.com/file/d/15UvZJLArivKoxTX0cPT_v1W7488zoh-a",
+          "embedUrl": "https://drive.google.com/file/d/15UvZJLArivKoxTX0cPT_v1W7488zoh-a/preview",
+          "youtubeId": "m6T4BGNZZi0"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lập trình ReactJS",
+      "videos": [
+        {
+          "id": 1,
+          "title": "01 - Tổng quan và tạo project ReactJS",
+          "description": "Giới thiệu tổng quan về ReactJS và cách tạo project",
+          "url": "https://drive.google.com/file/d/1XwThDty23YWSANTQ8tRY85_pTEWcavat",
+          "embedUrl": "https://drive.google.com/file/d/1XwThDty23YWSANTQ8tRY85_pTEWcavat/preview",
+          "youtubeId": "pCAOt2Lk2m4"
+        },
+        {
+          "id": 2,
+          "title": "02 - Component trong ReactJS - Phần 01",
+          "description": "Hướng dẫn tạo và sử dụng component trong ReactJS - Phần 01",
+          "url": "https://drive.google.com/file/d/1kofr4xSTCpyaJDg2eSuAUynZo7upoFn2",
+          "embedUrl": "https://drive.google.com/file/d/1kofr4xSTCpyaJDg2eSuAUynZo7upoFn2/preview",
+          "youtubeId": "1LDj9ImV_Q8"
+        },
+        {
+          "id": 3,
+          "title": "03 - Component trong ReactJS - Phần 02",
+          "description": "Hướng dẫn tạo và sử dụng component trong ReactJS - Phần 02",
+          "url": "https://drive.google.com/file/d/1hHvG4aMYpxFE4AIAhAUQkZMBWv2r6H-R",
+          "embedUrl": "https://drive.google.com/file/d/1hHvG4aMYpxFE4AIAhAUQkZMBWv2r6H-R/preview",
+          "youtubeId": "TlY8fIbPAqU"
+        },
+        {
+          "id": 4,
+          "title": "04 - Props",
+          "description": "Giới thiệu về Props trong ReactJS",
+          "url": "https://drive.google.com/file/d/1G7ghpHQ3LP3YE253iBasPJFcsAxotu8c",
+          "embedUrl": "https://drive.google.com/file/d/1G7ghpHQ3LP3YE253iBasPJFcsAxotu8c/preview",
+          "youtubeId": "OMsfHWcQ88s"
+        },
+        {
+          "id": 5,
+          "title": "05 - Sử dụng state trong ReactJS",
+          "description": "Hướng dẫn sử dụng state trong ReactJS",
+          "url": "https://drive.google.com/file/d/1ovQ8YPEV9MM9Q2Rt884etc_rYJhmPBLy",
+          "embedUrl": "https://drive.google.com/file/d/1ovQ8YPEV9MM9Q2Rt884etc_rYJhmPBLy/preview",
+          "youtubeId": "2JKEb7Ri-WY"
+        },
+        {
+          "id": 6,
+          "title": "06 - Xử lý state dạng đối tượng trong ReactJS",
+          "description": "Hướng dẫn xử lý state dạng đối tượng trong ReactJS",
+          "url": "https://drive.google.com/file/d/1YLsBS2k-TCb_ZXnKEsEeH0NvR6dJhnia",
+          "embedUrl": "https://drive.google.com/file/d/1YLsBS2k-TCb_ZXnKEsEeH0NvR6dJhnia/preview",
+          "youtubeId": "Axg5vUHGxw0"
+        },
+        {
+          "id": 7,
+          "title": "07 - Xử lý state là mảng trong ReactJS",
+          "description": "Hướng dẫn xử lý state là mảng trong ReactJS",
+          "url": "https://drive.google.com/file/d/1zzeod8xvE_Ekk_klbwup60NgsZQAks0r",
+          "embedUrl": "https://drive.google.com/file/d/1zzeod8xvE_Ekk_klbwup60NgsZQAks0r/preview",
+          "youtubeId": "uOAzSElALp4"
+        },
+        {
+          "id": 8,
+          "title": "08 - Sử dụng useEffect - Phần 01",
+          "description": "Hướng dẫn sử dụng useEffect trong ReactJS - Phần 01",
+          "url": "https://drive.google.com/file/d/1bzwfvs0A5nW25FjqUHRzAq9Wg0bOCiC4",
+          "embedUrl": "https://drive.google.com/file/d/1bzwfvs0A5nW25FjqUHRzAq9Wg0bOCiC4/preview",
+          "youtubeId": "QI4iT4qLfXo"
+        },
+        {
+          "id": 9,
+          "title": "09 - Sử dụng useEffect - Phần 02",
+          "description": "Hướng dẫn sử dụng useEffect trong ReactJS - Phần 02",
+          "url": "https://drive.google.com/file/d/1mNOZjMZPY_BPeKt6bLff3K7r2c1yOJ9e",
+          "embedUrl": "https://drive.google.com/file/d/1mNOZjMZPY_BPeKt6bLff3K7r2c1yOJ9e/preview",
+          "youtubeId": "8sk6MbyaTz0"
+        },
+        {
+          "id": 10,
+          "title": "10 - Sử dụng useEffect - Phần 03",
+          "description": "Hướng dẫn sử dụng useEffect trong ReactJS - Phần 03",
+          "url": "https://drive.google.com/file/d/1lkxquDNuG20nei8QDvOZgnu5wCwsqVfb",
+          "embedUrl": "https://drive.google.com/file/d/1lkxquDNuG20nei8QDvOZgnu5wCwsqVfb/preview",
+          "youtubeId": "d1O_IqHST4c"
+        },
+        {
+          "id": 11,
+          "title": "11 - Sử dụng React Router - Phần 01",
+          "description": "Hướng dẫn sử dụng React Router - Phần 01",
+          "url": "https://drive.google.com/file/d/1K5cnrade_Np1o2Pq_uEOgdQvl2e4AjpK",
+          "embedUrl": "https://drive.google.com/file/d/1K5cnrade_Np1o2Pq_uEOgdQvl2e4AjpK/preview",
+          "youtubeId": "1W-_55_kpjk"
+        },
+        {
+          "id": 12,
+          "title": "12 - Sử dụng React Router - Phần 02",
+          "description": "Hướng dẫn sử dụng React Router - Phần 02",
+          "url": "https://drive.google.com/file/d/15esUm-9QUYtf9Qg3f3kOXsEqhHdVCOwv",
+          "embedUrl": "https://drive.google.com/file/d/15esUm-9QUYtf9Qg3f3kOXsEqhHdVCOwv/preview",
+          "youtubeId": "LZvsmTa1te4"
+        },
+        {
+          "id": 13,
+          "title": "13 - Sử dụng React Router - Phần 03",
+          "description": "Hướng dẫn sử dụng React Router - Phần 03",
+          "url": "https://drive.google.com/file/d/1YH-qp37ANst83qX9WDIKaYXbWrGHGbpS",
+          "embedUrl": "https://drive.google.com/file/d/1YH-qp37ANst83qX9WDIKaYXbWrGHGbpS/preview",
+          "youtubeId": "ZpaFQW8ooQM"
+        },
+        {
+          "id": 14,
+          "title": "14 - Sử dụng React Router - Phần 04",
+          "description": "Hướng dẫn sử dụng React Router - Phần 04",
+          "url": "https://drive.google.com/file/d/1HTAbLeAELGEiXaF7ecz9ZILVPQwm0IHF",
+          "embedUrl": "https://drive.google.com/file/d/1HTAbLeAELGEiXaF7ecz9ZILVPQwm0IHF/preview",
+          "youtubeId": "ptaPh3VQWno"
+        },
+        {
+          "id": 15,
+          "title": "15 - Sử dụng React Context và useReducer - Phần 01",
+          "description": "Hướng dẫn sử dụng React Context và useReducer - Phần 01",
+          "url": "https://drive.google.com/file/d/1R7c2x-ISAVijkCFA-RuZEr16NI_fPhin",
+          "embedUrl": "https://drive.google.com/file/d/1R7c2x-ISAVijkCFA-RuZEr16NI_fPhin/preview",
+          "youtubeId": "VBZ3JTEWPsU"
+        },
+        {
+          "id": 16,
+          "title": "16 - Sử dụng React Context và useReducer - Phần 02",
+          "description": "Hướng dẫn sử dụng React Context và useReducer - Phần 02",
+          "url": "https://drive.google.com/file/d/1qzEXCedsUzp6hDcN25kFJEYEOlBC7Ojl",
+          "embedUrl": "https://drive.google.com/file/d/1qzEXCedsUzp6hDcN25kFJEYEOlBC7Ojl/preview",
+          "youtubeId": "6cD2Ez-VcKo"
+        },
+        {
+          "id": 17,
+          "title": "17 - Sử dụng React Context và useReducer - Phần 03",
+          "description": "Hướng dẫn sử dụng React Context và useReducer - Phần 03",
+          "url": "https://drive.google.com/file/d/1gvj-OMKgs9HEXrz4pie-DiCGNh4l8H3U",
+          "embedUrl": "https://drive.google.com/file/d/1gvj-OMKgs9HEXrz4pie-DiCGNh4l8H3U/preview",
+          "youtubeId": "AFQizJfg32k"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lập trình React Native",
+      "videos": [
+        {
+          "id": 1,
+          "title": "01 - Tạo project React Native",
+          "description": "Hướng dẫn tạo project React Native",
+          "url": "https://drive.google.com/file/d/1K4cyVoEhkD6E3_EeBXZRNicdbanJiAUX",
+          "embedUrl": "https://drive.google.com/file/d/1K4cyVoEhkD6E3_EeBXZRNicdbanJiAUX/preview",
+          "youtubeId": "NlRZuxfFFh0"
+        },
+        {
+          "id": 2,
+          "title": "02 - Props",
+          "description": "Giới thiệu về Props trong React Native",
+          "url": "https://drive.google.com/file/d/1lhJw7NJ3DgBi1plr_0kGx6_TVTgJkX3Z",
+          "embedUrl": "https://drive.google.com/file/d/1lhJw7NJ3DgBi1plr_0kGx6_TVTgJkX3Z/preview",
+          "youtubeId": "bylX40_28_I"
+        },
+        {
+          "id": 3,
+          "title": "03 - State",
+          "description": "Hướng dẫn sử dụng State trong React Native",
+          "url": "https://drive.google.com/file/d/1LtzCybKq6eY9AkJv5lslGxaubFXe77mz",
+          "embedUrl": "https://drive.google.com/file/d/1LtzCybKq6eY9AkJv5lslGxaubFXe77mz/preview",
+          "youtubeId": "kMyM1pEXiKE"
+        },
+        {
+          "id": 4,
+          "title": "04 - Giới thiệu Firebase",
+          "description": "Giới thiệu về Firebase và cách tích hợp vào React Native",
+          "url": "https://drive.google.com/file/d/1sM8e71O3RrXknTv08A5KcpteQwUo7dhf",
+          "embedUrl": "https://drive.google.com/file/d/1sM8e71O3RrXknTv08A5KcpteQwUo7dhf/preview",
+          "youtubeId": "o4FZh9H1aog"
+        },
+        {
+          "id": 5,
+          "title": "05 - Tạo API với Firebase - Phần 01",
+          "description": "Hướng dẫn tạo API với Firebase - Phần 01",
+          "url": "https://drive.google.com/file/d/1WmbjA38hAsvG5pPTLwWxuRviK8aRkqeO",
+          "embedUrl": "https://drive.google.com/file/d/1WmbjA38hAsvG5pPTLwWxuRviK8aRkqeO/preview",
+          "youtubeId": "V9NBOVfuM4c"
+        },
+        {
+          "id": 6,
+          "title": "06 - Tạo API với Firebase - Phần 02",
+          "description": "Hướng dẫn tạo API với Firebase - Phần 02",
+          "url": "https://drive.google.com/file/d/1O-p_mul2rE6IVMsG_Shnf2v25VLCp0n_",
+          "embedUrl": "https://drive.google.com/file/d/1O-p_mul2rE6IVMsG_Shnf2v25VLCp0n_/preview",
+          "youtubeId": "24GBVB8B2c8"
+        },
+        {
+          "id": 7,
+          "title": "07 - Sử dụng hook useEffect - Phần 01",
+          "description": "Hướng dẫn sử dụng hook useEffect trong React Native - Phần 01",
+          "url": "https://drive.google.com/file/d/194hks4SEqZnG6TMUqHAM_HkqvoTLWjuY",
+          "embedUrl": "https://drive.google.com/file/d/194hks4SEqZnG6TMUqHAM_HkqvoTLWjuY/preview",
+          "youtubeId": "vQUCDyA-jrM"
+        },
+        {
+          "id": 8,
+          "title": "08 - Sử dụng hook useEffect - Phần 02",
+          "description": "Hướng dẫn sử dụng hook useEffect trong React Native - Phần 02",
+          "url": "https://drive.google.com/file/d/1nrO_97L1iCAwLPkN1ubcKsH8mO272QWo",
+          "embedUrl": "https://drive.google.com/file/d/1nrO_97L1iCAwLPkN1ubcKsH8mO272QWo/preview",
+          "youtubeId": "MBDeEJTFo_U"
+        },
+        {
+          "id": 9,
+          "title": "09 - Sử dụng ScrollView",
+          "description": "Hướng dẫn sử dụng ScrollView trong React Native",
+          "url": "https://drive.google.com/file/d/1AyFZd5zVuRGaGuXEg8tfZs-7luW812EO",
+          "embedUrl": "https://drive.google.com/file/d/1AyFZd5zVuRGaGuXEg8tfZs-7luW812EO/preview",
+          "youtubeId": "YreTToaKEdc"
+        },
+        {
+          "id": 10,
+          "title": "10 - Sử dụng FastList và SectionList",
+          "description": "Hướng dẫn sử dụng FastList và SectionList trong React Native",
+          "url": "https://drive.google.com/file/d/1tvqrFm55p9qmMOV6SENZz2O1CsNCHEPT",
+          "embedUrl": "https://drive.google.com/file/d/1tvqrFm55p9qmMOV6SENZz2O1CsNCHEPT/preview",
+          "youtubeId": "oLphrukneoM"
+        },
+        {
+          "id": 11,
+          "title": "11 - Sử dụng Style và StyleSheet",
+          "description": "Hướng dẫn sử dụng Style và StyleSheet trong React Native",
+          "url": "https://drive.google.com/file/d/1MW31BDR-FbXqsuSaas4oIntM6RclK_K0",
+          "embedUrl": "https://drive.google.com/file/d/1MW31BDR-FbXqsuSaas4oIntM6RclK_K0/preview",
+          "youtubeId": "lJoBCkYq0pY"
+        },
+        {
+          "id": 12,
+          "title": "12 - Sử dụng FlexBox thiết kế giao diện",
+          "description": "Hướng dẫn sử dụng FlexBox để thiết kế giao diện trong React Native",
+          "url": "https://drive.google.com/file/d/1qpJNgmF5qvOllQf27Jz7xRyOHnvFszNM",
+          "embedUrl": "https://drive.google.com/file/d/1qpJNgmF5qvOllQf27Jz7xRyOHnvFszNM/preview",
+          "youtubeId": "8RdnYL7S9jc"
+        },
+        {
+          "id": 13,
+          "title": "13 - Sử dụng Text và Image",
+          "description": "Hướng dẫn sử dụng Text và Image trong React Native",
+          "url": "https://drive.google.com/file/d/1SMzXUy3vBaB53Ov5d8wVyCbvxGZUUAxV",
+          "embedUrl": "https://drive.google.com/file/d/1SMzXUy3vBaB53Ov5d8wVyCbvxGZUUAxV/preview",
+          "youtubeId": "Ab7M-std5Kw"
+        },
+        {
+          "id": 14,
+          "title": "14 - Sử dụng TextInput, Switch, ActivityIndicator",
+          "description": "Hướng dẫn sử dụng TextInput, Switch, ActivityIndicator trong React Native",
+          "url": "https://drive.google.com/file/d/1KaxJf8ot2JvVaWqUUizGAguOFdqxGeXv",
+          "embedUrl": "https://drive.google.com/file/d/1KaxJf8ot2JvVaWqUUizGAguOFdqxGeXv/preview",
+          "youtubeId": "rXu82CzWtsM"
+        },
+        {
+          "id": 15,
+          "title": "15 - Sử dụng Alert",
+          "description": "Hướng dẫn sử dụng Alert trong React Native",
+          "url": "https://drive.google.com/file/d/1iBVaDSr3e3tiZu8sx5uag8-hX3gzQYo8",
+          "embedUrl": "https://drive.google.com/file/d/1iBVaDSr3e3tiZu8sx5uag8-hX3gzQYo8/preview",
+          "youtubeId": "ITFQS5DR1VU"
+        },
+        {
+          "id": 16,
+          "title": "16 - Tạo hiệu ứng với Animated.timing()",
+          "description": "Hướng dẫn tạo hiệu ứng với Animated.timing() trong React Native",
+          "url": "https://drive.google.com/file/d/15nprurTujiQKuoam_oE89AoeFXWNjNCw",
+          "embedUrl": "https://drive.google.com/file/d/15nprurTujiQKuoam_oE89AoeFXWNjNCw/preview",
+          "youtubeId": "pNkfxCN1_uk"
+        },
+        {
+          "id": 17,
+          "title": "17 - Tạo hiệu ứng với Animated.spring()",
+          "description": "Hướng dẫn tạo hiệu ứng với Animated.spring() trong React Native",
+          "url": "https://drive.google.com/file/d/1dHUkijT3noZN-vdjtT7iRVC2kXo5Q7ND",
+          "embedUrl": "https://drive.google.com/file/d/1dHUkijT3noZN-vdjtT7iRVC2kXo5Q7ND/preview",
+          "youtubeId": "s_KjjkIlol0"
+        },
+        {
+          "id": 18,
+          "title": "18 - Tạo hiệu ứng với LayoutAnimation",
+          "description": "Hướng dẫn tạo hiệu ứng với LayoutAnimation trong React Native",
+          "url": "https://drive.google.com/file/d/19FU98H_Bju_Dhz3xBI2NSK9wPpXyg_yj",
+          "embedUrl": "https://drive.google.com/file/d/19FU98H_Bju_Dhz3xBI2NSK9wPpXyg_yj/preview",
+          "youtubeId": "uzfXDWfPJ1E"
+        },
+        {
+          "id": 19,
+          "title": "19 - Sử dụng Native Stack Navigator",
+          "description": "Hướng dẫn sử dụng Native Stack Navigator trong React Native",
+          "url": "https://drive.google.com/file/d/1piZmQQ2Oks0JX7m1IuL2sxDvUPbZUrZF",
+          "embedUrl": "https://drive.google.com/file/d/1piZmQQ2Oks0JX7m1IuL2sxDvUPbZUrZF/preview",
+          "youtubeId": "5KIhldwuqjM"
+        },
+        {
+          "id": 20,
+          "title": "20 - Sử dụng Bottom Tab Navigator",
+          "description": "Hướng dẫn sử dụng Bottom Tab Navigator trong React Native",
+          "url": "https://drive.google.com/file/d/10HZe2S1bhTIgw3ld0vMpke6-rpKutcn_",
+          "embedUrl": "https://drive.google.com/file/d/10HZe2S1bhTIgw3ld0vMpke6-rpKutcn_/preview",
+          "youtubeId": "3rf9p6kearw"
+        },
+        {
+          "id": 21,
+          "title": "21 - Sử dụng Drawer Navigator",
+          "description": "Hướng dẫn sử dụng Drawer Navigator trong React Native",
+          "url": "https://drive.google.com/file/d/1h0dZc6i69nVEZC_fwv65ulcqGw52tGTM",
+          "embedUrl": "https://drive.google.com/file/d/1h0dZc6i69nVEZC_fwv65ulcqGw52tGTM/preview",
+          "youtubeId": "61yHoq2BTa8"
+        }
+      ]
+    }
+  ]
+}
